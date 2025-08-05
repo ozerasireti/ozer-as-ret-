@@ -1,2 +1,2 @@
-# ozer-as-ret-
+# ozer-asıretı
 Özer Aşireti Resmi Web Sitesi
